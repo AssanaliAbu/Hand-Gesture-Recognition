@@ -3,7 +3,7 @@ OpenCV application reading web-camera frames and recognizing 8 different hand ge
 Segmentation is done using 21 Mediapipe landmarks. 
 Landmarks are classified into gestures via a Neural Network. 
 
-Deployed the model with Flask framework
+Deployed the model with Flask framework (server and templates/index files)
 
 
 
